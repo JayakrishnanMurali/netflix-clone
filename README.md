@@ -1,3 +1,3 @@
 # NetFlix Clone using React JS
 
-APP URL: https://netflix-clone-2e1ee.web.app
+APP URL: https://hungry-elion-8318b3.netlify.app/
